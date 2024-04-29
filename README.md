@@ -9,4 +9,4 @@ Repositório de códigos das aulas de Computação Gráfica e Processamento de I
 * Hipérbole;
 * Mickey;
 * Quadrado;
-* Triâmgulo.
+* Triângulo.
